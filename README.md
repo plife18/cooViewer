@@ -8,7 +8,7 @@
 <br>
 
 ## 開発, 確認環境
-- MacBook Pro (2021, M1) + Monterey
+- MacBook Pro (2021, M1) + Monterey -> Sonoma
 - MacBook Pro (2018, Intel) + Monterey
 
 ## ビルド
