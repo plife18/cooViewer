@@ -1,6 +1,6 @@
 [submodule "XADMaster"]
 	path = XADMaster
-	url = https://github.com/MacPaw/XADMaster.git
+	url = https://github.com/plife18/XADMaster.git
 [submodule "UniversalDetector"]
 	path = UniversalDetector
-	url = https://github.com/MacPaw/universal-detector.git
+	url = https://github.com/plife18/universal-detector.git
